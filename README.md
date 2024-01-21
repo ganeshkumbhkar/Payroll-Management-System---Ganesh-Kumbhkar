@@ -37,3 +37,14 @@ java Main
 ```
 ## Contributing
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
+
+![image](https://github.com/yashgosavi-02/EmployeePayrollSystem-Java/assets/90139024/a4546c31-04b0-4b93-8303-6f1125c19de1)
+![image](https://github.com/yashgosavi-02/EmployeePayrollSystem-Java/assets/90139024/05a89de7-7a77-4faf-adcf-830c85b41914)
+![image](https://github.com/yashgosavi-02/EmployeePayrollSystem-Java/assets/90139024/d4dddc4e-44ca-491d-8ba5-ea2e8f683045)
+![image](https://github.com/yashgosavi-02/EmployeePayrollSystem-Java/assets/90139024/46c3843c-fccc-4c95-815f-14f28060b42a)
+![image](https://github.com/yashgosavi-02/EmployeePayrollSystem-Java/assets/90139024/78a9c9ff-ba81-4d18-8c56-28b50a4c0166)
+
+
+
+
+
